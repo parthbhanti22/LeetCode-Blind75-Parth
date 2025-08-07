@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
