@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
