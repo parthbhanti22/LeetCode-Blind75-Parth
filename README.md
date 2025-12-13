@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0238-product-of-array-except-self) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parthbhanti22/LeetCode-Blind75-Parth/tree/master/0345-reverse-vowels-of-a-string) |
